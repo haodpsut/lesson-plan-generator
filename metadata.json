@@ -1,0 +1,5 @@
+{
+  "name": "AI Lesson Plan Generator for IT Education",
+  "description": "An application to help IT lecturers and teaching assistants automatically generate detailed lesson plans based on course information, student level, duration, and teaching methods using the Gemini API.",
+  "requestFramePermissions": []
+}
